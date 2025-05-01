@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/andr-ch/Results-summary-component.git)
-- Live Site URL: [Add live site URL here](https://andr-ch.github.io/Results-summary-component/)
+- Solution URL: [https://github.com/npc-makinika/Results-summary-component.git](https://github.com/npc-makinika/Results-summary-component.git)
+- Live Site URL: [https://npc-makinika.github.io/Results-summary-component/](https://npc-makinika.github.io/Results-summary-component/)
 
 ## My process
 
